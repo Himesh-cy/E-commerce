@@ -1,4 +1,5 @@
 update composer
+create database named "ecommerce"
 migrate database
 run server
 register user
