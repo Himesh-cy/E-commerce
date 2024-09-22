@@ -1,7 +1,7 @@
-update composer,
-create database named "ecommerce",
-migrate database,
-run server,
+update composer br
+create database named "ecommerce"br
+migrate database br
+run server br
 register user,
 goto mysql in user table ,
 and change usertype 1 ,
